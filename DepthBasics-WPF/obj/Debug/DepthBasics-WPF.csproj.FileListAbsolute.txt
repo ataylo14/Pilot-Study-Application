@@ -1,0 +1,29 @@
+C:\Users\ti\Documents\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\ti\Documents\DataCollection\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\ti\Documents\DataCollection\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\ti\Documents\DataCollection\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\ti\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\ti\Documents\WFP-Data Collection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
